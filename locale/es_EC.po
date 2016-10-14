@@ -1,0 +1,8 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:stock.inventory,product_category:"
+msgid "Category"
+msgstr "Categoría"
+
